@@ -8,7 +8,7 @@ const MINUTE = $('.number_min')
 const SECOND = $('.number_sec')
 
 //const deadline = new Date(2022,01,01,0,0,0,0)
-var deadline = new Date('Jan 1, 2022 00:00:00')
+var deadline = new Date('Jan 1, 2023 00:00:00')
 var currentDate = new Date()
 ;(function app() {
     console.log(deadline)
